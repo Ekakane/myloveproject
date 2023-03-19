@@ -1,0 +1,5 @@
+What is Git?
+ A version control system that keeps records of all lthe codes
+ that have been added, all changes being made to the code, 
+ collab live with team members, know who did what and what time
+ also revert any change
